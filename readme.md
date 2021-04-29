@@ -1,6 +1,6 @@
 # Introduction
 
-It is a PyTorch implementation of the Dialog Flow-VAE model  referenced from DialogWAE[[1]](#1)(https://github.com/guxd/DialogWAE) and toolkit(https://github.com/CW-Huang/torchkit/tree/master/torchkit) 
+It is a PyTorch implementation of the Dialog Flow-VAE model.
 
 ## Dependency
  - PyTorch 0.4.0
